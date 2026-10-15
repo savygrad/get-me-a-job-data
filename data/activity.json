@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "id": "act-mv9z7s4h-j43usv",
+      "at": "2026-10-15T20:13:27.713Z",
+      "kind": "run",
+      "message": "A hunt start never reached the engine — no workflow run checked in — so the stuck run was closed. Nothing was searched. Tap Start hunt to run it again."
+    },
+    {
       "id": "act-mv9yz3ei-wkr199",
       "at": "2026-10-15T20:06:42.426Z",
       "kind": "verify",
@@ -157,5 +163,5 @@
       "message": "Initialized the data store in savygrad/get-me-a-job-data: created data/profile.json, data/coverage.json, data/rules.json, data/answers.json, data/connections.json, data/runs.json, data/filings.json, data/codes.json, data/activity.json."
     }
   ],
-  "updated_at": "2026-10-15T20:06:42.426Z"
+  "updated_at": "2026-10-15T20:13:27.713Z"
 }
