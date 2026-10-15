@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "id": "act-mv9wl7yx-bf0lhe",
+      "at": "2026-10-15T18:59:55.929Z",
+      "kind": "save",
+      "message": "Coverage regenerated and saved from the dashboard repair prompt: 35 titles, 11 lanes."
+    },
+    {
       "id": "act-mv9wl55a-ai923h",
       "at": "2026-10-15T18:59:52.270Z",
       "kind": "generation",
@@ -97,5 +103,5 @@
       "message": "Initialized the data store in savygrad/get-me-a-job-data: created data/profile.json, data/coverage.json, data/rules.json, data/answers.json, data/connections.json, data/runs.json, data/filings.json, data/codes.json, data/activity.json."
     }
   ],
-  "updated_at": "2026-10-15T18:59:52.270Z"
+  "updated_at": "2026-10-15T18:59:55.929Z"
 }
