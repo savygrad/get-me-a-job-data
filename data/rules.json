@@ -1,10 +1,14 @@
 {
   "remote_only": true,
   "minimum_pay": "140000",
+  "maximum_pay": "",
+  "posting_max_age_days": 7,
+  "block_hands_on": true,
+  "block_presales": false,
   "focus_sectors": [
     "Healthcare insurers, healthcare, Government health, linkedin"
   ],
   "always_reject": [],
   "extra_notes": "",
-  "updated_at": "2026-10-15T17:31:04.756Z"
+  "updated_at": "2026-10-15T22:54:56.231Z"
 }
