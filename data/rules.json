@@ -1,8 +1,10 @@
 {
   "remote_only": true,
-  "minimum_pay": "",
-  "focus_sectors": [],
+  "minimum_pay": "140000",
+  "focus_sectors": [
+    "Healthcare insurers, healthcare, Government health, linkedin"
+  ],
   "always_reject": [],
   "extra_notes": "",
-  "updated_at": ""
+  "updated_at": "2026-10-15T17:25:15.800Z"
 }
