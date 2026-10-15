@@ -1,0 +1,14 @@
+{
+  "linkedin": {
+    "profile_url": "",
+    "connected": false,
+    "connected_at": ""
+  },
+  "mailbox": {
+    "provider": "",
+    "email": "",
+    "connected": false,
+    "connected_at": ""
+  },
+  "updated_at": ""
+}
