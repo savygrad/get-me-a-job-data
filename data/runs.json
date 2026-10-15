@@ -50,7 +50,7 @@
         ],
         "done": 1,
         "total": 1,
-        "status": "searching",
+        "status": "done",
         "detail": "humana, United healthcare, cigna: no public board found"
       },
       {
@@ -175,7 +175,7 @@
       }
     ],
     "evaluated_extra": 0,
-    "engine_updated_at": "2026-10-15T20:13:52.690Z",
+    "engine_updated_at": "2026-10-15T20:13:55.299Z",
     "stages": [
       {
         "name": "Preparing",
@@ -334,5 +334,5 @@
   ],
   "lane_controls": [],
   "requests": [],
-  "updated_at": "2026-10-15T20:13:52.932Z"
+  "updated_at": "2026-10-15T20:13:55.299Z"
 }
