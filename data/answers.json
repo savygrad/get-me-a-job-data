@@ -1,0 +1,23 @@
+{
+  "salary": {
+    "range": "",
+    "single_figure": "",
+    "contract_hourly": ""
+  },
+  "screening": {
+    "work_authorization": "",
+    "sponsorship_now": "",
+    "sponsorship_future": "",
+    "over_18": "",
+    "veteran_status": "",
+    "disability": "",
+    "gender": "",
+    "race_ethnicity": "",
+    "clearance_eligibility": "",
+    "travel": "",
+    "relocate": "",
+    "how_heard": ""
+  },
+  "skill_years": {},
+  "updated_at": ""
+}
