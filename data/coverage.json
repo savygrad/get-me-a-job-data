@@ -115,7 +115,8 @@
       "Principal Director of Healthcare Project",
       "Staff Director of Healthcare Project",
       "Associate Director of Healthcare Project",
-      "Executive Director of Healthcare Project"
+      "Executive Director of Healthcare Project",
+      "Associate Healthcare Project Director"
     ],
     "lanes": [
       {
@@ -202,9 +203,7 @@
     "saved_at": "2026-10-15T22:38:23.934Z"
   },
   "coverage_saved_at": "2026-10-15T22:38:23.934Z",
-  "updated_at": "2026-10-15T22:54:27.093Z",
-  "removed_titles": [
-    "Associate Healthcare Project Director"
-  ],
+  "updated_at": "2026-10-15T22:56:29.627Z",
+  "removed_titles": [],
   "added_titles": []
 }
