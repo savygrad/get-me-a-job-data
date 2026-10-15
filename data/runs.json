@@ -1,6 +1,137 @@
 {
-  "state": "idle",
-  "current_run": null,
+  "state": "running",
+  "current_run": {
+    "id": "run-mv9z7wxs-0z32io",
+    "started_at": "2026-10-15T20:13:33.952Z",
+    "titles": [
+      "Healthcare Project Director",
+      "Healthcare Director",
+      "Healthcare Program Director",
+      "Healthcare Operations Director",
+      "Healthcare Managing Director",
+      "Healthcare Director of Operations",
+      "Healthcare Associate Director",
+      "Healthcare Executive Director",
+      "Healthcare Senior Director",
+      "Senior Healthcare Project Director",
+      "Lead Healthcare Project Director",
+      "Principal Healthcare Project Director",
+      "Staff Healthcare Project Director",
+      "Project Director",
+      "Senior Project Director",
+      "Lead Project Director",
+      "Principal Project Director",
+      "Staff Project Director",
+      "Program Director",
+      "Senior Program Director",
+      "Lead Program Director",
+      "Principal Program Director",
+      "Staff Program Director",
+      "Operations Director",
+      "Senior Operations Director",
+      "Lead Operations Director",
+      "Principal Operations Director",
+      "Staff Operations Director",
+      "Managing Director",
+      "Senior Managing Director",
+      "Lead Managing Director",
+      "Principal Managing Director",
+      "Staff Managing Director",
+      "Director of Operations",
+      "Senior Director of Operations"
+    ],
+    "lanes": [
+      {
+        "id": "lane-mv9wl491-nme0o9",
+        "name": "Healthcare employers",
+        "kind": "sector",
+        "sites": [
+          "humana, United healthcare, cigna"
+        ]
+      },
+      {
+        "id": "lane-mv9wl491-b0qotw",
+        "name": "Media & Entertainment employers",
+        "kind": "sector",
+        "sites": [
+          "Employers in the Media & Entertainment sector (add target employers in the wizard)"
+        ]
+      },
+      {
+        "id": "lane-mv9wl491-u6816m",
+        "name": "LinkedIn",
+        "kind": "board",
+        "sites": [
+          "LinkedIn (linkedin.com/jobs)"
+        ]
+      },
+      {
+        "id": "lane-mv9wl491-2xjg4o",
+        "name": "Indeed",
+        "kind": "board",
+        "sites": [
+          "Indeed (indeed.com)"
+        ]
+      },
+      {
+        "id": "lane-mv9wl491-bpgi09",
+        "name": "Dice",
+        "kind": "board",
+        "sites": [
+          "Dice (dice.com)"
+        ]
+      },
+      {
+        "id": "lane-mv9wl491-jkzc6q",
+        "name": "Glassdoor",
+        "kind": "board",
+        "sites": [
+          "Glassdoor (glassdoor.com)"
+        ]
+      },
+      {
+        "id": "lane-mv9wl491-grctp9",
+        "name": "Monster",
+        "kind": "board",
+        "sites": [
+          "Monster (monster.com)"
+        ]
+      },
+      {
+        "id": "lane-mv9wl491-ibe1b3",
+        "name": "ZipRecruiter",
+        "kind": "board",
+        "sites": [
+          "ZipRecruiter (ziprecruiter.com)"
+        ]
+      },
+      {
+        "id": "lane-mv9wl491-7tdnty",
+        "name": "SimplyHired",
+        "kind": "board",
+        "sites": [
+          "SimplyHired (simplyhired.com)"
+        ]
+      },
+      {
+        "id": "lane-mv9wl491-0a9q11",
+        "name": "Google Jobs",
+        "kind": "board",
+        "sites": [
+          "Google Jobs (google.com/search jobs)"
+        ]
+      },
+      {
+        "id": "lane-mv9wl491-7lmim3",
+        "name": "Company Career Sites",
+        "kind": "board",
+        "sites": [
+          "Employer career pages (from your target employer list)"
+        ]
+      }
+    ],
+    "evaluated_extra": 0
+  },
   "history": [
     {
       "id": "run-mv9tbium-z66ua4",
@@ -131,5 +262,5 @@
   ],
   "lane_controls": [],
   "requests": [],
-  "updated_at": "2026-10-15T20:13:26.616Z"
+  "updated_at": "2026-10-15T20:13:33.952Z"
 }
