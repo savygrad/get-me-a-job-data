@@ -1,8 +1,8 @@
 {
   "linkedin": {
-    "profile_url": "",
-    "connected": false,
-    "connected_at": ""
+    "profile_url": "linkedin.com/in/ibienesamuel",
+    "connected": true,
+    "connected_at": "2026-10-15T17:21:38.406Z"
   },
   "mailbox": {
     "provider": "",
@@ -10,5 +10,5 @@
     "connected": false,
     "connected_at": ""
   },
-  "updated_at": ""
+  "updated_at": "2026-10-15T17:21:38.406Z"
 }
