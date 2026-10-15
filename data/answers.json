@@ -5,19 +5,19 @@
     "contract_hourly": "$80"
   },
   "screening": {
-    "work_authorization": "",
-    "sponsorship_now": "",
-    "sponsorship_future": "",
-    "over_18": "",
-    "veteran_status": "",
-    "disability": "",
-    "gender": "",
-    "race_ethnicity": "",
-    "clearance_eligibility": "",
-    "travel": "",
-    "relocate": "",
-    "how_heard": ""
+    "work_authorization": "US Citizen",
+    "sponsorship_now": "No",
+    "sponsorship_future": "No",
+    "over_18": "Yes",
+    "veteran_status": "NO",
+    "disability": "Not Disabled",
+    "gender": "Female",
+    "race_ethnicity": "Black",
+    "clearance_eligibility": "Eligible to obtain",
+    "travel": "sometimes",
+    "relocate": "no",
+    "how_heard": "Linkedin"
   },
   "skill_years": {},
-  "updated_at": "2026-10-15T17:23:29.937Z"
+  "updated_at": "2026-10-15T17:26:15.798Z"
 }
