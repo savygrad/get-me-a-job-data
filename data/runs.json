@@ -60,10 +60,10 @@
         "sites": [
           "Employers in the Media & Entertainment sector (add target employers in the wizard)"
         ],
-        "done": 0,
+        "done": 1,
         "total": 1,
-        "status": "queued",
-        "detail": ""
+        "status": "searching",
+        "detail": "Employers in the Media & Entertainment sector (add target employers in the wizard): no public board found"
       },
       {
         "id": "lane-mv9wl491-u6816m",
@@ -175,7 +175,7 @@
       }
     ],
     "evaluated_extra": 0,
-    "engine_updated_at": "2026-10-15T20:13:55.299Z",
+    "engine_updated_at": "2026-10-15T20:14:07.198Z",
     "stages": [
       {
         "name": "Preparing",
@@ -334,5 +334,5 @@
   ],
   "lane_controls": [],
   "requests": [],
-  "updated_at": "2026-10-15T20:13:55.299Z"
+  "updated_at": "2026-10-15T20:14:07.495Z"
 }
