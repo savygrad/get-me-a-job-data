@@ -165,7 +165,8 @@
       "Principal Managing Director",
       "Staff Managing Director",
       "Director of Operations",
-      "Senior Director of Operations"
+      "Senior Director of Operations",
+      "Senior Managing Director"
     ],
     "lanes": [
       {
@@ -260,9 +261,7 @@
     "saved_at": "2026-10-15T18:59:54.538Z"
   },
   "coverage_saved_at": "2026-10-15T18:59:54.538Z",
-  "updated_at": "2026-10-15T22:37:03.537Z",
-  "removed_titles": [
-    "Senior Managing Director"
-  ],
+  "updated_at": "2026-10-15T22:37:31.554Z",
+  "removed_titles": [],
   "added_titles": []
 }
