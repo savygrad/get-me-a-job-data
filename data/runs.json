@@ -47,7 +47,11 @@
         "kind": "sector",
         "sites": [
           "humana, United healthcare, cigna"
-        ]
+        ],
+        "done": 0,
+        "total": 1,
+        "status": "queued",
+        "detail": ""
       },
       {
         "id": "lane-mv9wl491-b0qotw",
@@ -55,7 +59,11 @@
         "kind": "sector",
         "sites": [
           "Employers in the Media & Entertainment sector (add target employers in the wizard)"
-        ]
+        ],
+        "done": 0,
+        "total": 1,
+        "status": "queued",
+        "detail": ""
       },
       {
         "id": "lane-mv9wl491-u6816m",
@@ -63,7 +71,11 @@
         "kind": "board",
         "sites": [
           "LinkedIn (linkedin.com/jobs)"
-        ]
+        ],
+        "done": 0,
+        "total": 1,
+        "status": "manual",
+        "detail": "LinkedIn/Indeed/Dice searches run in your signed-in browser; the engine covers employer boards directly."
       },
       {
         "id": "lane-mv9wl491-2xjg4o",
@@ -71,7 +83,11 @@
         "kind": "board",
         "sites": [
           "Indeed (indeed.com)"
-        ]
+        ],
+        "done": 0,
+        "total": 1,
+        "status": "manual",
+        "detail": "LinkedIn/Indeed/Dice searches run in your signed-in browser; the engine covers employer boards directly."
       },
       {
         "id": "lane-mv9wl491-bpgi09",
@@ -79,7 +95,11 @@
         "kind": "board",
         "sites": [
           "Dice (dice.com)"
-        ]
+        ],
+        "done": 0,
+        "total": 1,
+        "status": "manual",
+        "detail": "LinkedIn/Indeed/Dice searches run in your signed-in browser; the engine covers employer boards directly."
       },
       {
         "id": "lane-mv9wl491-jkzc6q",
@@ -87,7 +107,11 @@
         "kind": "board",
         "sites": [
           "Glassdoor (glassdoor.com)"
-        ]
+        ],
+        "done": 0,
+        "total": 1,
+        "status": "manual",
+        "detail": "LinkedIn/Indeed/Dice searches run in your signed-in browser; the engine covers employer boards directly."
       },
       {
         "id": "lane-mv9wl491-grctp9",
@@ -95,7 +119,11 @@
         "kind": "board",
         "sites": [
           "Monster (monster.com)"
-        ]
+        ],
+        "done": 0,
+        "total": 1,
+        "status": "manual",
+        "detail": "LinkedIn/Indeed/Dice searches run in your signed-in browser; the engine covers employer boards directly."
       },
       {
         "id": "lane-mv9wl491-ibe1b3",
@@ -103,7 +131,11 @@
         "kind": "board",
         "sites": [
           "ZipRecruiter (ziprecruiter.com)"
-        ]
+        ],
+        "done": 0,
+        "total": 1,
+        "status": "manual",
+        "detail": "LinkedIn/Indeed/Dice searches run in your signed-in browser; the engine covers employer boards directly."
       },
       {
         "id": "lane-mv9wl491-7tdnty",
@@ -111,7 +143,11 @@
         "kind": "board",
         "sites": [
           "SimplyHired (simplyhired.com)"
-        ]
+        ],
+        "done": 0,
+        "total": 1,
+        "status": "manual",
+        "detail": "LinkedIn/Indeed/Dice searches run in your signed-in browser; the engine covers employer boards directly."
       },
       {
         "id": "lane-mv9wl491-0a9q11",
@@ -119,7 +155,11 @@
         "kind": "board",
         "sites": [
           "Google Jobs (google.com/search jobs)"
-        ]
+        ],
+        "done": 0,
+        "total": 1,
+        "status": "manual",
+        "detail": "LinkedIn/Indeed/Dice searches run in your signed-in browser; the engine covers employer boards directly."
       },
       {
         "id": "lane-mv9wl491-7lmim3",
@@ -127,10 +167,42 @@
         "kind": "board",
         "sites": [
           "Employer career pages (from your target employer list)"
-        ]
+        ],
+        "done": 0,
+        "total": 1,
+        "status": "manual",
+        "detail": "LinkedIn/Indeed/Dice searches run in your signed-in browser; the engine covers employer boards directly."
       }
     ],
-    "evaluated_extra": 0
+    "evaluated_extra": 0,
+    "engine_updated_at": "2026-10-15T20:13:50.401Z",
+    "stages": [
+      {
+        "name": "Preparing",
+        "state": "done",
+        "detail": "Saved titles, lanes and rules loaded."
+      },
+      {
+        "name": "Discovering",
+        "state": "active",
+        "detail": "Searching employer job boards."
+      },
+      {
+        "name": "Evaluating",
+        "state": "queued",
+        "detail": ""
+      },
+      {
+        "name": "Filing",
+        "state": "queued",
+        "detail": ""
+      },
+      {
+        "name": "Closeout",
+        "state": "queued",
+        "detail": ""
+      }
+    ]
   },
   "history": [
     {
@@ -262,5 +334,5 @@
   ],
   "lane_controls": [],
   "requests": [],
-  "updated_at": "2026-10-15T20:13:33.952Z"
+  "updated_at": "2026-10-15T20:13:50.402Z"
 }
