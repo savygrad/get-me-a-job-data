@@ -104,44 +104,23 @@
   "saved": {
     "titles": [
       "Healthcare Project Director",
-      "Healthcare Director",
-      "Healthcare Program Director",
-      "Healthcare Operations Director",
-      "Healthcare Managing Director",
-      "Healthcare Director of Operations",
-      "Healthcare Associate Director",
-      "Healthcare Executive Director",
-      "Healthcare Senior Director",
       "Senior Healthcare Project Director",
       "Lead Healthcare Project Director",
       "Principal Healthcare Project Director",
       "Staff Healthcare Project Director",
-      "Project Director",
-      "Senior Project Director",
-      "Lead Project Director",
-      "Principal Project Director",
-      "Staff Project Director",
-      "Program Director",
-      "Senior Program Director",
-      "Lead Program Director",
-      "Principal Program Director",
-      "Staff Program Director",
-      "Operations Director",
-      "Senior Operations Director",
-      "Lead Operations Director",
-      "Principal Operations Director",
-      "Staff Operations Director",
-      "Managing Director",
-      "Lead Managing Director",
-      "Principal Managing Director",
-      "Staff Managing Director",
-      "Director of Operations",
-      "Senior Director of Operations",
-      "Senior Managing Director"
+      "Associate Healthcare Project Director",
+      "Executive Healthcare Project Director",
+      "Director of Healthcare Project",
+      "Senior Director of Healthcare Project",
+      "Lead Director of Healthcare Project",
+      "Principal Director of Healthcare Project",
+      "Staff Director of Healthcare Project",
+      "Associate Director of Healthcare Project",
+      "Executive Director of Healthcare Project"
     ],
     "lanes": [
       {
-        "id": "lane-mv9wl491-nme0o9",
+        "id": "lane-mva4dx5h-z2tog2",
         "name": "Healthcare employers",
         "kind": "sector",
         "sites": [
@@ -149,15 +128,7 @@
         ]
       },
       {
-        "id": "lane-mv9wl491-b0qotw",
-        "name": "Media & Entertainment employers",
-        "kind": "sector",
-        "sites": [
-          "Employers in the Media & Entertainment sector (add target employers in the wizard)"
-        ]
-      },
-      {
-        "id": "lane-mv9wl491-u6816m",
+        "id": "lane-mva4dx5h-p7nz9o",
         "name": "LinkedIn",
         "kind": "board",
         "sites": [
@@ -165,7 +136,7 @@
         ]
       },
       {
-        "id": "lane-mv9wl491-2xjg4o",
+        "id": "lane-mva4dx5h-uqdb6p",
         "name": "Indeed",
         "kind": "board",
         "sites": [
@@ -173,7 +144,7 @@
         ]
       },
       {
-        "id": "lane-mv9wl491-bpgi09",
+        "id": "lane-mva4dx5h-4pabup",
         "name": "Dice",
         "kind": "board",
         "sites": [
@@ -181,7 +152,7 @@
         ]
       },
       {
-        "id": "lane-mv9wl491-jkzc6q",
+        "id": "lane-mva4dx5h-31eyz5",
         "name": "Glassdoor",
         "kind": "board",
         "sites": [
@@ -189,7 +160,7 @@
         ]
       },
       {
-        "id": "lane-mv9wl491-grctp9",
+        "id": "lane-mva4dx5h-3vdvbk",
         "name": "Monster",
         "kind": "board",
         "sites": [
@@ -197,7 +168,7 @@
         ]
       },
       {
-        "id": "lane-mv9wl491-ibe1b3",
+        "id": "lane-mva4dx5h-gengia",
         "name": "ZipRecruiter",
         "kind": "board",
         "sites": [
@@ -205,7 +176,7 @@
         ]
       },
       {
-        "id": "lane-mv9wl491-7tdnty",
+        "id": "lane-mva4dx5h-zdbxl6",
         "name": "SimplyHired",
         "kind": "board",
         "sites": [
@@ -213,7 +184,7 @@
         ]
       },
       {
-        "id": "lane-mv9wl491-0a9q11",
+        "id": "lane-mva4dx5h-u3ifrb",
         "name": "Google Jobs",
         "kind": "board",
         "sites": [
@@ -221,7 +192,7 @@
         ]
       },
       {
-        "id": "lane-mv9wl491-7lmim3",
+        "id": "lane-mva4dx5h-ut74cf",
         "name": "Company Career Sites",
         "kind": "board",
         "sites": [
@@ -229,10 +200,10 @@
         ]
       }
     ],
-    "saved_at": "2026-10-15T18:59:54.538Z"
+    "saved_at": "2026-10-15T22:38:23.934Z"
   },
-  "coverage_saved_at": "2026-10-15T18:59:54.538Z",
-  "updated_at": "2026-10-15T22:38:12.245Z",
+  "coverage_saved_at": "2026-10-15T22:38:23.934Z",
+  "updated_at": "2026-10-15T22:38:23.934Z",
   "removed_titles": [],
   "added_titles": []
 }
