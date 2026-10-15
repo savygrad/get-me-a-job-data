@@ -161,7 +161,6 @@
       "Principal Operations Director",
       "Staff Operations Director",
       "Managing Director",
-      "Senior Managing Director",
       "Lead Managing Director",
       "Principal Managing Director",
       "Staff Managing Director",
@@ -261,5 +260,9 @@
     "saved_at": "2026-10-15T18:59:54.538Z"
   },
   "coverage_saved_at": "2026-10-15T18:59:54.538Z",
-  "updated_at": "2026-10-15T18:59:54.538Z"
+  "updated_at": "2026-10-15T22:37:03.537Z",
+  "removed_titles": [
+    "Senior Managing Director"
+  ],
+  "added_titles": []
 }
