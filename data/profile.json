@@ -3,11 +3,11 @@
   "email": "ibisamueltx@outlook.com",
   "phone": "7138050577",
   "address": {
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "country": ""
+    "street": "8315 FM RD 723",
+    "city": "Richmond",
+    "state": "Texas",
+    "zip": "77406",
+    "country": "United States"
   },
   "resume": {
     "filename": "",
@@ -26,6 +26,6 @@
     "target": [],
     "excluded": []
   },
-  "wizard_step": 1,
-  "updated_at": "2026-10-15T17:15:52.439Z"
+  "wizard_step": 2,
+  "updated_at": "2026-10-15T17:15:59.955Z"
 }
