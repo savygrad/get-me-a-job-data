@@ -174,8 +174,8 @@
         "detail": "LinkedIn/Indeed/Dice searches run in your signed-in browser; the engine covers employer boards directly."
       }
     ],
-    "evaluated_extra": 0,
-    "engine_updated_at": "2026-10-15T20:14:08.978Z",
+    "evaluated_extra": 399,
+    "engine_updated_at": "2026-10-15T20:14:20.021Z",
     "stages": [
       {
         "name": "Preparing",
@@ -184,23 +184,23 @@
       },
       {
         "name": "Discovering",
-        "state": "active",
-        "detail": "Searching employer job boards."
+        "state": "done",
+        "detail": "Every saved lane checked."
       },
       {
         "name": "Evaluating",
-        "state": "queued",
-        "detail": ""
+        "state": "done",
+        "detail": "Postings were evaluated as they were found, against your saved titles and rules."
       },
       {
         "name": "Filing",
-        "state": "queued",
-        "detail": ""
+        "state": "done",
+        "detail": "Ready-to-apply leads queued in Parked — submissions happen in your browser."
       },
       {
         "name": "Closeout",
-        "state": "queued",
-        "detail": ""
+        "state": "active",
+        "detail": "Saving the run record."
       }
     ]
   },
@@ -334,5 +334,5 @@
   ],
   "lane_controls": [],
   "requests": [],
-  "updated_at": "2026-10-15T20:14:08.978Z"
+  "updated_at": "2026-10-15T20:14:20.021Z"
 }

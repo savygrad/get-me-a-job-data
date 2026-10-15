@@ -1,4 +1,1156 @@
 {
-  "filings": [],
-  "updated_at": "2026-10-15T20:14:08.978Z"
+  "filings": [
+    {
+      "id": "fil-mv9z8wgi-3t6f6a",
+      "company": "Utopia",
+      "role": "Payment Operations Specialist",
+      "where": "RemoteOK",
+      "filed_at": "2026-10-15T20:14:19.986Z",
+      "date": "2026-10-15",
+      "url": "https://remoteOK.com/remote-jobs/remote-payment-operations-specialist-utopia-1137514",
+      "status": "parked",
+      "reason": "Ready to apply — found by the hunt engine on RemoteOK. Open the posting, apply, then record it as filed.",
+      "check": {
+        "verdict": "ready",
+        "rules": [
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "Payment Operations Specialist"
+          },
+          {
+            "rule": "Remote-only",
+            "status": "pass",
+            "evidence": "Remote — posting states remote work"
+          },
+          {
+            "rule": "Minimum pay",
+            "status": "grey",
+            "evidence": "No pay stated in the posting"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8wgj-vy0q57",
+      "company": "Midnite",
+      "role": "Product Design Director",
+      "where": "RemoteOK",
+      "filed_at": "2026-10-15T20:14:19.987Z",
+      "date": "2026-10-15",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-design-director-midnite-1137497",
+      "status": "parked",
+      "reason": "Ready to apply — found by the hunt engine on RemoteOK. Open the posting, apply, then record it as filed.",
+      "check": {
+        "verdict": "ready",
+        "rules": [
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "Product Design Director"
+          },
+          {
+            "rule": "Remote-only",
+            "status": "pass",
+            "evidence": "Remote — United Kingdom"
+          },
+          {
+            "rule": "Minimum pay",
+            "status": "grey",
+            "evidence": "No pay stated in the posting"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8wgk-5eixpu",
+      "company": "Fortanix",
+      "role": "Federal Business Development Director",
+      "where": "RemoteOK",
+      "filed_at": "2026-10-15T20:14:19.988Z",
+      "date": "2026-10-15",
+      "url": "https://remoteOK.com/remote-jobs/remote-federal-business-development-director-fortanix-1137463",
+      "status": "rejected",
+      "reason": "Not remote",
+      "check": {
+        "verdict": "rejected",
+        "rules": [
+          {
+            "rule": "Remote-only",
+            "status": "fail",
+            "evidence": "Location: not stated — no remote signal in the posting"
+          },
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "Federal Business Development Director"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8wgk-5yluhe",
+      "company": "Leverage Live Local",
+      "role": "Head of Operations",
+      "where": "RemoteOK",
+      "filed_at": "2026-10-15T20:14:19.988Z",
+      "date": "2026-10-15",
+      "url": "https://remoteOK.com/remote-jobs/remote-head-of-operations-leverage-live-local-1137461",
+      "status": "parked",
+      "reason": "Ready to apply — found by the hunt engine on RemoteOK. Open the posting, apply, then record it as filed.",
+      "check": {
+        "verdict": "ready",
+        "rules": [
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "Head of Operations"
+          },
+          {
+            "rule": "Remote-only",
+            "status": "pass",
+            "evidence": "Remote — posting states remote work"
+          },
+          {
+            "rule": "Minimum pay",
+            "status": "pass",
+            "evidence": "Posting tops out at $350,000/yr; your minimum is $140,000/yr"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8wgu-5l1dap",
+      "company": "SIHO Insurance Services ",
+      "role": "Director Payment Integrity",
+      "where": "RemoteOK",
+      "filed_at": "2026-10-15T20:14:19.998Z",
+      "date": "2026-10-15",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-payment-integrity-siho-insurance-services-1137434",
+      "status": "rejected",
+      "reason": "Not remote",
+      "check": {
+        "verdict": "rejected",
+        "rules": [
+          {
+            "rule": "Remote-only",
+            "status": "fail",
+            "evidence": "Location: SIHO - Columbus, IN — no remote signal in the posting"
+          },
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "Director Payment Integrity"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8wgu-hxr9es",
+      "company": "Omega Enterprises",
+      "role": "Junior Digital Assets Operations Analyst",
+      "where": "RemoteOK",
+      "filed_at": "2026-10-15T20:14:19.998Z",
+      "date": "2026-10-15",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-digital-assets-operations-analyst-omega-enterprises-1137418",
+      "status": "rejected",
+      "reason": "Pay below your minimum",
+      "check": {
+        "verdict": "rejected",
+        "rules": [
+          {
+            "rule": "Minimum pay",
+            "status": "fail",
+            "evidence": "Posting tops out at $80,000/yr; your minimum is $140,000/yr"
+          },
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "Junior Digital Assets Operations Analyst"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8wgv-qbkg2b",
+      "company": "Ashby",
+      "role": "People Operations Coordinator",
+      "where": "RemoteOK",
+      "filed_at": "2026-10-15T20:14:19.999Z",
+      "date": "2026-10-15",
+      "url": "https://remoteOK.com/remote-jobs/remote-people-operations-coordinator-ashby-1137412",
+      "status": "rejected",
+      "reason": "Pay below your minimum",
+      "check": {
+        "verdict": "rejected",
+        "rules": [
+          {
+            "rule": "Minimum pay",
+            "status": "fail",
+            "evidence": "Posting tops out at $80,000/yr; your minimum is $140,000/yr"
+          },
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "People Operations Coordinator"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8wgx-wl0qgq",
+      "company": "Engine",
+      "role": "Marketing Operations Specialist",
+      "where": "RemoteOK",
+      "filed_at": "2026-10-15T20:14:20.001Z",
+      "date": "2026-10-15",
+      "url": "https://remoteOK.com/remote-jobs/remote-marketing-operations-specialist-engine-1136950",
+      "status": "parked",
+      "reason": "Ready to apply — found by the hunt engine on RemoteOK. Open the posting, apply, then record it as filed.",
+      "check": {
+        "verdict": "ready",
+        "rules": [
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "Marketing Operations Specialist"
+          },
+          {
+            "rule": "Remote-only",
+            "status": "pass",
+            "evidence": "Remote — Remote - US"
+          },
+          {
+            "rule": "Minimum pay",
+            "status": "grey",
+            "evidence": "No pay stated in the posting"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8wgz-ti5khp",
+      "company": "AWeber",
+      "role": "Operations Engineer II",
+      "where": "RemoteOK",
+      "filed_at": "2026-10-15T20:14:20.003Z",
+      "date": "2026-10-15",
+      "url": "https://remoteOK.com/remote-jobs/remote-operations-engineer-ii-aweber-1136778",
+      "status": "parked",
+      "reason": "Ready to apply — found by the hunt engine on RemoteOK. Open the posting, apply, then record it as filed.",
+      "check": {
+        "verdict": "ready",
+        "rules": [
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "Operations Engineer II"
+          },
+          {
+            "rule": "Remote-only",
+            "status": "pass",
+            "evidence": "Remote — Uluberia-II, "
+          },
+          {
+            "rule": "Minimum pay",
+            "status": "grey",
+            "evidence": "No pay stated in the posting"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8wh0-pfryio",
+      "company": "Wing",
+      "role": "Regional Flight Operations Support Manager",
+      "where": "RemoteOK",
+      "filed_at": "2026-10-15T20:14:20.004Z",
+      "date": "2026-10-15",
+      "url": "https://remoteOK.com/remote-jobs/remote-regional-flight-operations-support-manager-wing-1136054",
+      "status": "parked",
+      "reason": "Ready to apply — found by the hunt engine on RemoteOK. Open the posting, apply, then record it as filed.",
+      "check": {
+        "verdict": "ready",
+        "rules": [
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "Regional Flight Operations Support Manager"
+          },
+          {
+            "rule": "Remote-only",
+            "status": "pass",
+            "evidence": "Remote — Dallas, Dallas, Texas, United States"
+          },
+          {
+            "rule": "Minimum pay",
+            "status": "pass",
+            "evidence": "Posting tops out at $154,000/yr; your minimum is $140,000/yr"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8wh0-fqjc4q",
+      "company": "Alp Ami Hospitality GmbH",
+      "role": "Operations Manager (m/f/d)",
+      "where": "Arbeitnow",
+      "filed_at": "2026-10-15T20:14:20.004Z",
+      "date": "2026-10-15",
+      "url": "https://www.arbeitnow.com/jobs/companies/alp-ami-hospitality-gmbh/operations-manager-munich-386500",
+      "status": "rejected",
+      "reason": "Not remote",
+      "check": {
+        "verdict": "rejected",
+        "rules": [
+          {
+            "rule": "Remote-only",
+            "status": "fail",
+            "evidence": "Location: Munich — no remote signal in the posting"
+          },
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "Operations Manager (m/f/d)"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8wh1-9p25yf",
+      "company": "Melotech",
+      "role": "Content Operations Specialist",
+      "where": "Arbeitnow",
+      "filed_at": "2026-10-15T20:14:20.005Z",
+      "date": "2026-10-15",
+      "url": "https://www.arbeitnow.com/jobs/companies/melotech/content-operations-specialist-berlin-423611",
+      "status": "rejected",
+      "reason": "Not remote",
+      "check": {
+        "verdict": "rejected",
+        "rules": [
+          {
+            "rule": "Remote-only",
+            "status": "fail",
+            "evidence": "Location: Berlin — no remote signal in the posting"
+          },
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "Content Operations Specialist"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8wh3-xrib44",
+      "company": "Zenjob",
+      "role": "Working Student IT Support & Operations (m/f/d)",
+      "where": "Arbeitnow",
+      "filed_at": "2026-10-15T20:14:20.007Z",
+      "date": "2026-10-15",
+      "url": "https://www.arbeitnow.com/jobs/companies/zenjob/working-student-it-support-operations-berlin-447839",
+      "status": "rejected",
+      "reason": "Not remote",
+      "check": {
+        "verdict": "rejected",
+        "rules": [
+          {
+            "rule": "Remote-only",
+            "status": "fail",
+            "evidence": "Location: Berlin — no remote signal in the posting"
+          },
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "Working Student IT Support & Operations (m/f/d)"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8wh4-w43wza",
+      "company": "aedifion GmbH",
+      "role": "(Senior) Revenue Operations Manager (f/m/d)",
+      "where": "Arbeitnow",
+      "filed_at": "2026-10-15T20:14:20.008Z",
+      "date": "2026-10-15",
+      "url": "https://www.arbeitnow.com/jobs/companies/aedifion-gmbh/senior-revenue-operations-manager-cologne-399006",
+      "status": "parked",
+      "reason": "Ready to apply — found by the hunt engine on Arbeitnow. Open the posting, apply, then record it as filed.",
+      "check": {
+        "verdict": "ready",
+        "rules": [
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "(Senior) Revenue Operations Manager (f/m/d)"
+          },
+          {
+            "rule": "Remote-only",
+            "status": "pass",
+            "evidence": "Remote — Cologne"
+          },
+          {
+            "rule": "Minimum pay",
+            "status": "grey",
+            "evidence": "No pay stated in the posting"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8wh5-9gycnf",
+      "company": "gocomo GmbH",
+      "role": "(Senior) Operations Controller (m/w/d)",
+      "where": "Arbeitnow",
+      "filed_at": "2026-10-15T20:14:20.009Z",
+      "date": "2026-10-15",
+      "url": "https://www.arbeitnow.com/jobs/companies/gocomo-gmbh/senior-operations-controller-berlin-186827",
+      "status": "rejected",
+      "reason": "Not remote",
+      "check": {
+        "verdict": "rejected",
+        "rules": [
+          {
+            "rule": "Remote-only",
+            "status": "fail",
+            "evidence": "Location: Berlin — no remote signal in the posting"
+          },
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "(Senior) Operations Controller (m/w/d)"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8wh6-d3o2ui",
+      "company": "Veni Solutions",
+      "role": "Junior Operations Assistant (m/w/d) – HealthTech",
+      "where": "Arbeitnow",
+      "filed_at": "2026-10-15T20:14:20.010Z",
+      "date": "2026-10-15",
+      "url": "https://www.arbeitnow.com/jobs/companies/veni-solutions/junior-operations-assistant-healthtech-berlin-77476",
+      "status": "parked",
+      "reason": "Ready to apply — found by the hunt engine on Arbeitnow. Open the posting, apply, then record it as filed.",
+      "check": {
+        "verdict": "ready",
+        "rules": [
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "Junior Operations Assistant (m/w/d) – HealthTech"
+          },
+          {
+            "rule": "Remote-only",
+            "status": "pass",
+            "evidence": "Remote — Berlin"
+          },
+          {
+            "rule": "Minimum pay",
+            "status": "grey",
+            "evidence": "No pay stated in the posting"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8wh8-lpwwuk",
+      "company": "Rubrik",
+      "role": "Senior Project Manager, Professional Services",
+      "where": "Arbeitnow",
+      "filed_at": "2026-10-15T20:14:20.012Z",
+      "date": "2026-10-15",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/rubrik/senior-project-manager-professional-services-london-78894",
+      "status": "parked",
+      "reason": "Ready to apply — found by the hunt engine on Arbeitnow. Open the posting, apply, then record it as filed.",
+      "check": {
+        "verdict": "ready",
+        "rules": [
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "Senior Project Manager, Professional Services"
+          },
+          {
+            "rule": "Remote-only",
+            "status": "pass",
+            "evidence": "Remote — London"
+          },
+          {
+            "rule": "Minimum pay",
+            "status": "grey",
+            "evidence": "No pay stated in the posting"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8wh8-2bvvl3",
+      "company": "Dotmatics",
+      "role": "Director, Market Growth Strategy, Molecule to Market (Lab Automation)",
+      "where": "Arbeitnow",
+      "filed_at": "2026-10-15T20:14:20.012Z",
+      "date": "2026-10-15",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/dotmatics/director-market-growth-strategy-molecule-to-market-lab-automation-51549",
+      "status": "parked",
+      "reason": "Ready to apply — found by the hunt engine on Arbeitnow. Open the posting, apply, then record it as filed.",
+      "check": {
+        "verdict": "ready",
+        "rules": [
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "Director, Market Growth Strategy, Molecule to Market (Lab Automation)"
+          },
+          {
+            "rule": "Remote-only",
+            "status": "pass",
+            "evidence": "Remote — posting states remote work"
+          },
+          {
+            "rule": "Minimum pay",
+            "status": "grey",
+            "evidence": "No pay stated in the posting"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8wh8-hdt0y3",
+      "company": "Carta",
+      "role": "Managing Director, Fund Accounting",
+      "where": "Arbeitnow",
+      "filed_at": "2026-10-15T20:14:20.012Z",
+      "date": "2026-10-15",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/carta/managing-director-fund-accounting-london-377820",
+      "status": "rejected",
+      "reason": "Not remote",
+      "check": {
+        "verdict": "rejected",
+        "rules": [
+          {
+            "rule": "Remote-only",
+            "status": "fail",
+            "evidence": "Location: London — no remote signal in the posting"
+          },
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "Managing Director, Fund Accounting"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8wh9-40qto6",
+      "company": "Radiant",
+      "role": "IT Operations Systems Assistant",
+      "where": "Arbeitnow",
+      "filed_at": "2026-10-15T20:14:20.013Z",
+      "date": "2026-10-15",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/it-operations-systems-assistant-london-104348",
+      "status": "rejected",
+      "reason": "Not remote",
+      "check": {
+        "verdict": "rejected",
+        "rules": [
+          {
+            "rule": "Remote-only",
+            "status": "fail",
+            "evidence": "Location: London — no remote signal in the posting"
+          },
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "IT Operations Systems Assistant"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8wh9-3n7vwl",
+      "company": "Radiant",
+      "role": "Datacentre Operations Engineer",
+      "where": "Arbeitnow",
+      "filed_at": "2026-10-15T20:14:20.013Z",
+      "date": "2026-10-15",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/datacentre-operations-engineer-london-490964",
+      "status": "parked",
+      "reason": "Ready to apply — found by the hunt engine on Arbeitnow. Open the posting, apply, then record it as filed.",
+      "check": {
+        "verdict": "ready",
+        "rules": [
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "Datacentre Operations Engineer"
+          },
+          {
+            "rule": "Remote-only",
+            "status": "pass",
+            "evidence": "Remote — London"
+          },
+          {
+            "rule": "Minimum pay",
+            "status": "grey",
+            "evidence": "No pay stated in the posting"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8wh9-5zsb23",
+      "company": "Focalsystems",
+      "role": "Director of Analytics",
+      "where": "Arbeitnow",
+      "filed_at": "2026-10-15T20:14:20.013Z",
+      "date": "2026-10-15",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/focalsystems/remote-director-of-analytics-160173",
+      "status": "parked",
+      "reason": "Ready to apply — found by the hunt engine on Arbeitnow. Open the posting, apply, then record it as filed.",
+      "check": {
+        "verdict": "ready",
+        "rules": [
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "Director of Analytics"
+          },
+          {
+            "rule": "Remote-only",
+            "status": "pass",
+            "evidence": "Remote — Remote"
+          },
+          {
+            "rule": "Minimum pay",
+            "status": "grey",
+            "evidence": "No pay stated in the posting"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8wh9-e11tpk",
+      "company": "Sohohouseco",
+      "role": "Design Director, Soho Home",
+      "where": "Arbeitnow",
+      "filed_at": "2026-10-15T20:14:20.013Z",
+      "date": "2026-10-15",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sohohouseco/design-director-soho-home-london-305638",
+      "status": "rejected",
+      "reason": "Not remote",
+      "check": {
+        "verdict": "rejected",
+        "rules": [
+          {
+            "rule": "Remote-only",
+            "status": "fail",
+            "evidence": "Location: London — no remote signal in the posting"
+          },
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "Design Director, Soho Home"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8wh9-e7owl7",
+      "company": "Sohohouseco",
+      "role": "Creative Director, Soho Home",
+      "where": "Arbeitnow",
+      "filed_at": "2026-10-15T20:14:20.013Z",
+      "date": "2026-10-15",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sohohouseco/creative-director-soho-home-london-70502",
+      "status": "rejected",
+      "reason": "Not remote",
+      "check": {
+        "verdict": "rejected",
+        "rules": [
+          {
+            "rule": "Remote-only",
+            "status": "fail",
+            "evidence": "Location: London — no remote signal in the posting"
+          },
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "Creative Director, Soho Home"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8wh9-wjh5k1",
+      "company": "Brunswickgroup",
+      "role": "Director, TMT",
+      "where": "Arbeitnow",
+      "filed_at": "2026-10-15T20:14:20.013Z",
+      "date": "2026-10-15",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/brunswickgroup/director-tmt-london-443765",
+      "status": "parked",
+      "reason": "Ready to apply — found by the hunt engine on Arbeitnow. Open the posting, apply, then record it as filed.",
+      "check": {
+        "verdict": "ready",
+        "rules": [
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "Director, TMT"
+          },
+          {
+            "rule": "Remote-only",
+            "status": "pass",
+            "evidence": "Remote — London"
+          },
+          {
+            "rule": "Minimum pay",
+            "status": "grey",
+            "evidence": "No pay stated in the posting"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8wh9-d6h04h",
+      "company": "Brunswickgroup",
+      "role": "Account Director, Financial Practice",
+      "where": "Arbeitnow",
+      "filed_at": "2026-10-15T20:14:20.013Z",
+      "date": "2026-10-15",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/brunswickgroup/account-director-financial-practice-london-355411",
+      "status": "parked",
+      "reason": "Ready to apply — found by the hunt engine on Arbeitnow. Open the posting, apply, then record it as filed.",
+      "check": {
+        "verdict": "ready",
+        "rules": [
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "Account Director, Financial Practice"
+          },
+          {
+            "rule": "Remote-only",
+            "status": "pass",
+            "evidence": "Remote — London"
+          },
+          {
+            "rule": "Minimum pay",
+            "status": "grey",
+            "evidence": "No pay stated in the posting"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8wh9-0hfjmi",
+      "company": "Cosine",
+      "role": "Defence Account Director",
+      "where": "Arbeitnow",
+      "filed_at": "2026-10-15T20:14:20.013Z",
+      "date": "2026-10-15",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cosine/defence-account-director-london-172944",
+      "status": "rejected",
+      "reason": "Not remote",
+      "check": {
+        "verdict": "rejected",
+        "rules": [
+          {
+            "rule": "Remote-only",
+            "status": "fail",
+            "evidence": "Location: London Office — no remote signal in the posting"
+          },
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "Defence Account Director"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8wh9-y5vdvf",
+      "company": "Cosine",
+      "role": "Founding Healthcare Lead",
+      "where": "Arbeitnow",
+      "filed_at": "2026-10-15T20:14:20.013Z",
+      "date": "2026-10-15",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cosine/founding-healthcare-lead-london-28246",
+      "status": "rejected",
+      "reason": "Not remote",
+      "check": {
+        "verdict": "rejected",
+        "rules": [
+          {
+            "rule": "Remote-only",
+            "status": "fail",
+            "evidence": "Location: London Office — no remote signal in the posting"
+          },
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "Founding Healthcare Lead"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8whb-okvjx8",
+      "company": "Cxg",
+      "role": "Director, Luxury Market Intelligence & Insights",
+      "where": "Arbeitnow",
+      "filed_at": "2026-10-15T20:14:20.015Z",
+      "date": "2026-10-15",
+      "url": "https://www.arbeitnow.fr/jobs/companies/cxg/remote-director-luxury-market-intelligence-insights-france-407041",
+      "status": "parked",
+      "reason": "Ready to apply — found by the hunt engine on Arbeitnow. Open the posting, apply, then record it as filed.",
+      "check": {
+        "verdict": "ready",
+        "rules": [
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "Director, Luxury Market Intelligence & Insights"
+          },
+          {
+            "rule": "Remote-only",
+            "status": "pass",
+            "evidence": "Remote — France"
+          },
+          {
+            "rule": "Minimum pay",
+            "status": "grey",
+            "evidence": "No pay stated in the posting"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8whc-hrzrbm",
+      "company": "Bursonglobalcareers",
+      "role": "Account director - Social Media & Influence F/H",
+      "where": "Arbeitnow",
+      "filed_at": "2026-10-15T20:14:20.016Z",
+      "date": "2026-10-15",
+      "url": "https://www.arbeitnow.fr/jobs/companies/bursonglobalcareers/account-director-social-media-influence-f-h-paris-paris-8157",
+      "status": "rejected",
+      "reason": "Not remote",
+      "check": {
+        "verdict": "rejected",
+        "rules": [
+          {
+            "rule": "Remote-only",
+            "status": "fail",
+            "evidence": "Location: Paris, Paris — no remote signal in the posting"
+          },
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "Account director - Social Media & Influence F/H"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8whd-7v4ctr",
+      "company": "Adaptyv",
+      "role": "Laboratory Technician, Lab Operations",
+      "where": "Arbeitnow",
+      "filed_at": "2026-10-15T20:14:20.017Z",
+      "date": "2026-10-15",
+      "url": "https://www.arbeitnow.ch/jobs/companies/adaptyv/laboratory-technician-lab-operations-lausanne-369229",
+      "status": "rejected",
+      "reason": "Not remote",
+      "check": {
+        "verdict": "rejected",
+        "rules": [
+          {
+            "rule": "Remote-only",
+            "status": "fail",
+            "evidence": "Location: Lausanne — no remote signal in the posting"
+          },
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "Laboratory Technician, Lab Operations"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8whg-9woysu",
+      "company": "SwissPeak Partners GmbH",
+      "role": "Head of Investment Fund Operations",
+      "where": "Arbeitnow",
+      "filed_at": "2026-10-15T20:14:20.020Z",
+      "date": "2026-10-15",
+      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/head-of-investment-fund-operations-basel-384877",
+      "status": "rejected",
+      "reason": "Not remote",
+      "check": {
+        "verdict": "rejected",
+        "rules": [
+          {
+            "rule": "Remote-only",
+            "status": "fail",
+            "evidence": "Location: Basel, Basel-Stadt, Switzerland — no remote signal in the posting"
+          },
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "Head of Investment Fund Operations"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8whg-izlpfn",
+      "company": "Crisp",
+      "role": "Manager Operations Planning & Performance",
+      "where": "Arbeitnow",
+      "filed_at": "2026-10-15T20:14:20.020Z",
+      "date": "2026-10-15",
+      "url": "https://www.arbeitnow.nl/jobs/companies/crisp/manager-operations-planning-performance-amsterdam-359992",
+      "status": "rejected",
+      "reason": "Not remote",
+      "check": {
+        "verdict": "rejected",
+        "rules": [
+          {
+            "rule": "Remote-only",
+            "status": "fail",
+            "evidence": "Location: Amsterdam — no remote signal in the posting"
+          },
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "Manager Operations Planning & Performance"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8whg-rns3yr",
+      "company": "Mytomorrows",
+      "role": "Director, Expanded Access Program Operations",
+      "where": "Arbeitnow",
+      "filed_at": "2026-10-15T20:14:20.020Z",
+      "date": "2026-10-15",
+      "url": "https://www.arbeitnow.nl/jobs/companies/mytomorrows/director-expanded-access-program-operations-amsterdam-408628",
+      "status": "rejected",
+      "reason": "Not remote",
+      "check": {
+        "verdict": "rejected",
+        "rules": [
+          {
+            "rule": "Remote-only",
+            "status": "fail",
+            "evidence": "Location: Amsterdam HQ — no remote signal in the posting"
+          },
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "Director, Expanded Access Program Operations"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8whg-3ig2p9",
+      "company": "Samsara",
+      "role": "Senior Security Operations Engineer",
+      "where": "Arbeitnow",
+      "filed_at": "2026-10-15T20:14:20.020Z",
+      "date": "2026-10-15",
+      "url": "https://www.arbeitnow.nl/jobs/companies/samsara/senior-security-operations-engineer-netherlands-276669",
+      "status": "parked",
+      "reason": "Ready to apply — found by the hunt engine on Arbeitnow. Open the posting, apply, then record it as filed.",
+      "check": {
+        "verdict": "ready",
+        "rules": [
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "Senior Security Operations Engineer"
+          },
+          {
+            "rule": "Remote-only",
+            "status": "pass",
+            "evidence": "Remote — Netherlands"
+          },
+          {
+            "rule": "Minimum pay",
+            "status": "grey",
+            "evidence": "No pay stated in the posting"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8whg-qofiys",
+      "company": "sonyinteractiveentertainmentglobal",
+      "role": "Director, Global Operations Excellence",
+      "where": "Arbeitnow",
+      "filed_at": "2026-10-15T20:14:20.020Z",
+      "date": "2026-10-15",
+      "url": "https://www.arbeitnow.nl/jobs/companies/sonyinteractiveentertainmentglobal/director-global-operations-excellence-hilversum-43297",
+      "status": "rejected",
+      "reason": "Not remote",
+      "check": {
+        "verdict": "rejected",
+        "rules": [
+          {
+            "rule": "Remote-only",
+            "status": "fail",
+            "evidence": "Location: Hilversum — no remote signal in the posting"
+          },
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "Director, Global Operations Excellence"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8whg-sxy84p",
+      "company": "Nuvei",
+      "role": "Senior Director, Analytics & Business Intelligence",
+      "where": "Arbeitnow",
+      "filed_at": "2026-10-15T20:14:20.020Z",
+      "date": "2026-10-15",
+      "url": "https://www.arbeitnow.nl/jobs/companies/nuvei/senior-director-analytics-business-intelligence-amsterdam-293725",
+      "status": "rejected",
+      "reason": "Not remote",
+      "check": {
+        "verdict": "rejected",
+        "rules": [
+          {
+            "rule": "Remote-only",
+            "status": "fail",
+            "evidence": "Location: Amsterdam, Netherlands — no remote signal in the posting"
+          },
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "Senior Director, Analytics & Business Intelligence"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8whg-4v1847",
+      "company": "Systemiq",
+      "role": "Director - Power Systems and Grid Transformation",
+      "where": "Arbeitnow",
+      "filed_at": "2026-10-15T20:14:20.020Z",
+      "date": "2026-10-15",
+      "url": "https://www.arbeitnow.nl/jobs/companies/systemiq/director-power-systems-and-grid-transformation-amsterdam-1539",
+      "status": "rejected",
+      "reason": "Not remote",
+      "check": {
+        "verdict": "rejected",
+        "rules": [
+          {
+            "rule": "Remote-only",
+            "status": "fail",
+            "evidence": "Location: Amsterdam — no remote signal in the posting"
+          },
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "Director - Power Systems and Grid Transformation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8whg-aj7lms",
+      "company": "Optics11",
+      "role": "Senior Project Manager (Subsea)",
+      "where": "Arbeitnow",
+      "filed_at": "2026-10-15T20:14:20.020Z",
+      "date": "2026-10-15",
+      "url": "https://www.arbeitnow.nl/jobs/companies/optics11/senior-project-manager-subsea-amsterdam-310672",
+      "status": "rejected",
+      "reason": "Not remote",
+      "check": {
+        "verdict": "rejected",
+        "rules": [
+          {
+            "rule": "Remote-only",
+            "status": "fail",
+            "evidence": "Location: Amsterdam, Noord-Holland, Netherlands — no remote signal in the posting"
+          },
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "Senior Project Manager (Subsea)"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8whh-r0yej0",
+      "company": "Optics11",
+      "role": "IT Director",
+      "where": "Arbeitnow",
+      "filed_at": "2026-10-15T20:14:20.021Z",
+      "date": "2026-10-15",
+      "url": "https://www.arbeitnow.nl/jobs/companies/optics11/it-director-amsterdam-395700",
+      "status": "parked",
+      "reason": "Ready to apply — found by the hunt engine on Arbeitnow. Open the posting, apply, then record it as filed.",
+      "check": {
+        "verdict": "ready",
+        "rules": [
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "IT Director"
+          },
+          {
+            "rule": "Remote-only",
+            "status": "pass",
+            "evidence": "Remote — Amsterdam, Noord-Holland, Netherlands"
+          },
+          {
+            "rule": "Minimum pay",
+            "status": "grey",
+            "evidence": "No pay stated in the posting"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fil-mv9z8whh-3l981w",
+      "company": "Optics11",
+      "role": "Senior Project Manager",
+      "where": "Arbeitnow",
+      "filed_at": "2026-10-15T20:14:20.021Z",
+      "date": "2026-10-15",
+      "url": "https://www.arbeitnow.nl/jobs/companies/optics11/senior-project-manager-amsterdam-154516",
+      "status": "rejected",
+      "reason": "Not remote",
+      "check": {
+        "verdict": "rejected",
+        "rules": [
+          {
+            "rule": "Remote-only",
+            "status": "fail",
+            "evidence": "Location: Amsterdam, Noord-Holland, Netherlands — no remote signal in the posting"
+          },
+          {
+            "rule": "Title matches your saved titles",
+            "status": "pass",
+            "evidence": "Senior Project Manager"
+          }
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-10-15T20:14:20.022Z"
 }
