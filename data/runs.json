@@ -48,10 +48,10 @@
         "sites": [
           "humana, United healthcare, cigna"
         ],
-        "done": 0,
+        "done": 1,
         "total": 1,
-        "status": "queued",
-        "detail": ""
+        "status": "searching",
+        "detail": "humana, United healthcare, cigna: no public board found"
       },
       {
         "id": "lane-mv9wl491-b0qotw",
@@ -175,7 +175,7 @@
       }
     ],
     "evaluated_extra": 0,
-    "engine_updated_at": "2026-10-15T20:13:50.401Z",
+    "engine_updated_at": "2026-10-15T20:13:52.690Z",
     "stages": [
       {
         "name": "Preparing",
@@ -334,5 +334,5 @@
   ],
   "lane_controls": [],
   "requests": [],
-  "updated_at": "2026-10-15T20:13:50.402Z"
+  "updated_at": "2026-10-15T20:13:52.932Z"
 }
