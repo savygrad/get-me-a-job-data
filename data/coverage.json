@@ -1,9 +1,126 @@
 {
-  "specified_title": "",
+  "specified_title": "Healthcare Project Director",
   "draft": {
-    "titles": [],
-    "lanes": [],
-    "generated_at": ""
+    "titles": [
+      "Healthcare Project Director",
+      "Healthcare Project Director Specialist",
+      "Healthcare Project Director Specialist Specialist",
+      "Senior Healthcare Project Director Specialist Specialist",
+      "Lead Healthcare Project Director Specialist Specialist",
+      "Principal Healthcare Project Director Specialist Specialist",
+      "Staff Healthcare Project Director Specialist Specialist",
+      "Healthcare Project Director Specialist Technical Specialist",
+      "Healthcare Project Director Specialist Support Specialist",
+      "Healthcare Project Director Specialist Operations Specialist",
+      "Specialist",
+      "Senior Specialist",
+      "Lead Specialist",
+      "Principal Specialist",
+      "Staff Specialist",
+      "Technical Specialist",
+      "Senior Technical Specialist",
+      "Lead Technical Specialist",
+      "Principal Technical Specialist",
+      "Staff Technical Specialist",
+      "Implementation Specialist",
+      "Senior Implementation Specialist",
+      "Lead Implementation Specialist",
+      "Principal Implementation Specialist",
+      "Staff Implementation Specialist",
+      "Support Specialist",
+      "Senior Support Specialist",
+      "Lead Support Specialist",
+      "Principal Support Specialist",
+      "Staff Support Specialist",
+      "Operations Specialist",
+      "Senior Operations Specialist",
+      "Lead Operations Specialist",
+      "Principal Operations Specialist",
+      "Staff Operations Specialist"
+    ],
+    "lanes": [
+      {
+        "id": "lane-mv9syyfc-71538g",
+        "name": "Media & Entertainment employers",
+        "kind": "sector",
+        "sites": [
+          "Employers in the Media & Entertainment sector (add target employers in the wizard)"
+        ]
+      },
+      {
+        "id": "lane-mv9syyfc-b38lvp",
+        "name": "LinkedIn",
+        "kind": "board",
+        "sites": [
+          "LinkedIn (linkedin.com/jobs)"
+        ]
+      },
+      {
+        "id": "lane-mv9syyfc-1qkie0",
+        "name": "Indeed",
+        "kind": "board",
+        "sites": [
+          "Indeed (indeed.com)"
+        ]
+      },
+      {
+        "id": "lane-mv9syyfc-99vfhn",
+        "name": "Dice",
+        "kind": "board",
+        "sites": [
+          "Dice (dice.com)"
+        ]
+      },
+      {
+        "id": "lane-mv9syyfc-3ycduq",
+        "name": "Glassdoor",
+        "kind": "board",
+        "sites": [
+          "Glassdoor (glassdoor.com)"
+        ]
+      },
+      {
+        "id": "lane-mv9syyfc-me2o39",
+        "name": "Monster",
+        "kind": "board",
+        "sites": [
+          "Monster (monster.com)"
+        ]
+      },
+      {
+        "id": "lane-mv9syyfc-kyhhoy",
+        "name": "ZipRecruiter",
+        "kind": "board",
+        "sites": [
+          "ZipRecruiter (ziprecruiter.com)"
+        ]
+      },
+      {
+        "id": "lane-mv9syyfc-n2engk",
+        "name": "SimplyHired",
+        "kind": "board",
+        "sites": [
+          "SimplyHired (simplyhired.com)"
+        ]
+      },
+      {
+        "id": "lane-mv9syyfc-cwxfrg",
+        "name": "Google Jobs",
+        "kind": "board",
+        "sites": [
+          "Google Jobs (google.com/search jobs)"
+        ]
+      },
+      {
+        "id": "lane-mv9syyfc-disbvg",
+        "name": "Company Career Sites",
+        "kind": "board",
+        "sites": [
+          "Employer career pages (from your target employer list)"
+        ]
+      }
+    ],
+    "generated_at": "2026-10-15T17:18:38.280Z"
   },
   "saved": {
     "titles": [],
@@ -11,5 +128,5 @@
     "saved_at": ""
   },
   "coverage_saved_at": "",
-  "updated_at": ""
+  "updated_at": "2026-10-15T17:18:38.280Z"
 }
