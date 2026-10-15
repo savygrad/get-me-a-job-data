@@ -1,0 +1,31 @@
+{
+  "name": "",
+  "email": "",
+  "phone": "",
+  "address": {
+    "street": "",
+    "city": "",
+    "state": "",
+    "zip": "",
+    "country": ""
+  },
+  "resume": {
+    "filename": "",
+    "added_at": "",
+    "text": ""
+  },
+  "detection": {
+    "skills": [],
+    "employers": [],
+    "titles": [],
+    "industries": [],
+    "years_experience": "",
+    "summary": ""
+  },
+  "employers": {
+    "target": [],
+    "excluded": []
+  },
+  "wizard_step": 1,
+  "updated_at": ""
+}
