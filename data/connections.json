@@ -5,10 +5,10 @@
     "connected_at": "2026-10-15T17:21:38.406Z"
   },
   "mailbox": {
-    "provider": "",
-    "email": "",
-    "connected": false,
-    "connected_at": ""
+    "provider": "Outlook",
+    "email": "ibisamueltx@outlook.com",
+    "connected": true,
+    "connected_at": "2026-10-15T17:22:40.985Z"
   },
-  "updated_at": "2026-10-15T17:21:38.406Z"
+  "updated_at": "2026-10-15T17:22:40.985Z"
 }
