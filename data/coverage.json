@@ -133,44 +133,52 @@
   "saved": {
     "titles": [
       "Healthcare Project Director",
-      "Healthcare Project Director Specialist",
-      "Healthcare Project Director Specialist Specialist",
-      "Senior Healthcare Project Director Specialist Specialist",
-      "Lead Healthcare Project Director Specialist Specialist",
-      "Principal Healthcare Project Director Specialist Specialist",
-      "Staff Healthcare Project Director Specialist Specialist",
-      "Healthcare Project Director Specialist Technical Specialist",
-      "Healthcare Project Director Specialist Support Specialist",
-      "Healthcare Project Director Specialist Operations Specialist",
-      "Specialist",
-      "Senior Specialist",
-      "Lead Specialist",
-      "Principal Specialist",
-      "Staff Specialist",
-      "Technical Specialist",
-      "Senior Technical Specialist",
-      "Lead Technical Specialist",
-      "Principal Technical Specialist",
-      "Staff Technical Specialist",
-      "Implementation Specialist",
-      "Senior Implementation Specialist",
-      "Lead Implementation Specialist",
-      "Principal Implementation Specialist",
-      "Staff Implementation Specialist",
-      "Support Specialist",
-      "Senior Support Specialist",
-      "Lead Support Specialist",
-      "Principal Support Specialist",
-      "Staff Support Specialist",
-      "Operations Specialist",
-      "Senior Operations Specialist",
-      "Lead Operations Specialist",
-      "Principal Operations Specialist",
-      "Staff Operations Specialist"
+      "Healthcare Director",
+      "Healthcare Program Director",
+      "Healthcare Operations Director",
+      "Healthcare Managing Director",
+      "Healthcare Director of Operations",
+      "Healthcare Associate Director",
+      "Healthcare Executive Director",
+      "Healthcare Senior Director",
+      "Senior Healthcare Project Director",
+      "Lead Healthcare Project Director",
+      "Principal Healthcare Project Director",
+      "Staff Healthcare Project Director",
+      "Project Director",
+      "Senior Project Director",
+      "Lead Project Director",
+      "Principal Project Director",
+      "Staff Project Director",
+      "Program Director",
+      "Senior Program Director",
+      "Lead Program Director",
+      "Principal Program Director",
+      "Staff Program Director",
+      "Operations Director",
+      "Senior Operations Director",
+      "Lead Operations Director",
+      "Principal Operations Director",
+      "Staff Operations Director",
+      "Managing Director",
+      "Senior Managing Director",
+      "Lead Managing Director",
+      "Principal Managing Director",
+      "Staff Managing Director",
+      "Director of Operations",
+      "Senior Director of Operations"
     ],
     "lanes": [
       {
-        "id": "lane-mv9syyfc-71538g",
+        "id": "lane-mv9wl491-nme0o9",
+        "name": "Healthcare employers",
+        "kind": "sector",
+        "sites": [
+          "humana, United healthcare, cigna"
+        ]
+      },
+      {
+        "id": "lane-mv9wl491-b0qotw",
         "name": "Media & Entertainment employers",
         "kind": "sector",
         "sites": [
@@ -178,7 +186,7 @@
         ]
       },
       {
-        "id": "lane-mv9syyfc-b38lvp",
+        "id": "lane-mv9wl491-u6816m",
         "name": "LinkedIn",
         "kind": "board",
         "sites": [
@@ -186,7 +194,7 @@
         ]
       },
       {
-        "id": "lane-mv9syyfc-1qkie0",
+        "id": "lane-mv9wl491-2xjg4o",
         "name": "Indeed",
         "kind": "board",
         "sites": [
@@ -194,7 +202,7 @@
         ]
       },
       {
-        "id": "lane-mv9syyfc-99vfhn",
+        "id": "lane-mv9wl491-bpgi09",
         "name": "Dice",
         "kind": "board",
         "sites": [
@@ -202,7 +210,7 @@
         ]
       },
       {
-        "id": "lane-mv9syyfc-3ycduq",
+        "id": "lane-mv9wl491-jkzc6q",
         "name": "Glassdoor",
         "kind": "board",
         "sites": [
@@ -210,7 +218,7 @@
         ]
       },
       {
-        "id": "lane-mv9syyfc-me2o39",
+        "id": "lane-mv9wl491-grctp9",
         "name": "Monster",
         "kind": "board",
         "sites": [
@@ -218,7 +226,7 @@
         ]
       },
       {
-        "id": "lane-mv9syyfc-kyhhoy",
+        "id": "lane-mv9wl491-ibe1b3",
         "name": "ZipRecruiter",
         "kind": "board",
         "sites": [
@@ -226,7 +234,7 @@
         ]
       },
       {
-        "id": "lane-mv9syyfc-n2engk",
+        "id": "lane-mv9wl491-7tdnty",
         "name": "SimplyHired",
         "kind": "board",
         "sites": [
@@ -234,7 +242,7 @@
         ]
       },
       {
-        "id": "lane-mv9syyfc-cwxfrg",
+        "id": "lane-mv9wl491-0a9q11",
         "name": "Google Jobs",
         "kind": "board",
         "sites": [
@@ -242,7 +250,7 @@
         ]
       },
       {
-        "id": "lane-mv9syyfc-disbvg",
+        "id": "lane-mv9wl491-7lmim3",
         "name": "Company Career Sites",
         "kind": "board",
         "sites": [
@@ -250,8 +258,8 @@
         ]
       }
     ],
-    "saved_at": "2026-10-15T17:26:52.755Z"
+    "saved_at": "2026-10-15T18:59:54.538Z"
   },
-  "coverage_saved_at": "2026-10-15T17:26:52.755Z",
-  "updated_at": "2026-10-15T18:59:51.109Z"
+  "coverage_saved_at": "2026-10-15T18:59:54.538Z",
+  "updated_at": "2026-10-15T18:59:54.538Z"
 }
