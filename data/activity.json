@@ -1,11 +1,17 @@
 {
   "entries": [
     {
+      "id": "act-mv9sz0aj-76zbrw",
+      "at": "2026-10-15T17:18:40.699Z",
+      "kind": "workaround",
+      "message": "Generated coverage came back thin (35 titles, 10 lanes) — automatically widened with broader variants and merged."
+    },
+    {
       "id": "act-mv9snlkt-mgob53",
       "at": "2026-10-15T17:09:48.413Z",
       "kind": "setup",
       "message": "Initialized the data store in savygrad/get-me-a-job-data: created data/profile.json, data/coverage.json, data/rules.json, data/answers.json, data/connections.json, data/runs.json, data/filings.json, data/codes.json, data/activity.json."
     }
   ],
-  "updated_at": "2026-10-15T17:09:48.414Z"
+  "updated_at": "2026-10-15T17:18:40.699Z"
 }
