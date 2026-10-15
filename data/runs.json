@@ -1,210 +1,212 @@
 {
-  "state": "running",
-  "current_run": {
-    "id": "run-mv9z7wxs-0z32io",
-    "started_at": "2026-10-15T20:13:33.952Z",
-    "titles": [
-      "Healthcare Project Director",
-      "Healthcare Director",
-      "Healthcare Program Director",
-      "Healthcare Operations Director",
-      "Healthcare Managing Director",
-      "Healthcare Director of Operations",
-      "Healthcare Associate Director",
-      "Healthcare Executive Director",
-      "Healthcare Senior Director",
-      "Senior Healthcare Project Director",
-      "Lead Healthcare Project Director",
-      "Principal Healthcare Project Director",
-      "Staff Healthcare Project Director",
-      "Project Director",
-      "Senior Project Director",
-      "Lead Project Director",
-      "Principal Project Director",
-      "Staff Project Director",
-      "Program Director",
-      "Senior Program Director",
-      "Lead Program Director",
-      "Principal Program Director",
-      "Staff Program Director",
-      "Operations Director",
-      "Senior Operations Director",
-      "Lead Operations Director",
-      "Principal Operations Director",
-      "Staff Operations Director",
-      "Managing Director",
-      "Senior Managing Director",
-      "Lead Managing Director",
-      "Principal Managing Director",
-      "Staff Managing Director",
-      "Director of Operations",
-      "Senior Director of Operations"
-    ],
-    "lanes": [
-      {
-        "id": "lane-mv9wl491-nme0o9",
-        "name": "Healthcare employers",
-        "kind": "sector",
-        "sites": [
-          "humana, United healthcare, cigna"
-        ],
-        "done": 1,
-        "total": 1,
-        "status": "done",
-        "detail": "humana, United healthcare, cigna: no public board found"
-      },
-      {
-        "id": "lane-mv9wl491-b0qotw",
-        "name": "Media & Entertainment employers",
-        "kind": "sector",
-        "sites": [
-          "Employers in the Media & Entertainment sector (add target employers in the wizard)"
-        ],
-        "done": 1,
-        "total": 1,
-        "status": "done",
-        "detail": "Employers in the Media & Entertainment sector (add target employers in the wizard): no public board found"
-      },
-      {
-        "id": "lane-mv9wl491-u6816m",
-        "name": "LinkedIn",
-        "kind": "board",
-        "sites": [
-          "LinkedIn (linkedin.com/jobs)"
-        ],
-        "done": 0,
-        "total": 1,
-        "status": "manual",
-        "detail": "LinkedIn/Indeed/Dice searches run in your signed-in browser; the engine covers employer boards directly."
-      },
-      {
-        "id": "lane-mv9wl491-2xjg4o",
-        "name": "Indeed",
-        "kind": "board",
-        "sites": [
-          "Indeed (indeed.com)"
-        ],
-        "done": 0,
-        "total": 1,
-        "status": "manual",
-        "detail": "LinkedIn/Indeed/Dice searches run in your signed-in browser; the engine covers employer boards directly."
-      },
-      {
-        "id": "lane-mv9wl491-bpgi09",
-        "name": "Dice",
-        "kind": "board",
-        "sites": [
-          "Dice (dice.com)"
-        ],
-        "done": 0,
-        "total": 1,
-        "status": "manual",
-        "detail": "LinkedIn/Indeed/Dice searches run in your signed-in browser; the engine covers employer boards directly."
-      },
-      {
-        "id": "lane-mv9wl491-jkzc6q",
-        "name": "Glassdoor",
-        "kind": "board",
-        "sites": [
-          "Glassdoor (glassdoor.com)"
-        ],
-        "done": 0,
-        "total": 1,
-        "status": "manual",
-        "detail": "LinkedIn/Indeed/Dice searches run in your signed-in browser; the engine covers employer boards directly."
-      },
-      {
-        "id": "lane-mv9wl491-grctp9",
-        "name": "Monster",
-        "kind": "board",
-        "sites": [
-          "Monster (monster.com)"
-        ],
-        "done": 0,
-        "total": 1,
-        "status": "manual",
-        "detail": "LinkedIn/Indeed/Dice searches run in your signed-in browser; the engine covers employer boards directly."
-      },
-      {
-        "id": "lane-mv9wl491-ibe1b3",
-        "name": "ZipRecruiter",
-        "kind": "board",
-        "sites": [
-          "ZipRecruiter (ziprecruiter.com)"
-        ],
-        "done": 0,
-        "total": 1,
-        "status": "manual",
-        "detail": "LinkedIn/Indeed/Dice searches run in your signed-in browser; the engine covers employer boards directly."
-      },
-      {
-        "id": "lane-mv9wl491-7tdnty",
-        "name": "SimplyHired",
-        "kind": "board",
-        "sites": [
-          "SimplyHired (simplyhired.com)"
-        ],
-        "done": 0,
-        "total": 1,
-        "status": "manual",
-        "detail": "LinkedIn/Indeed/Dice searches run in your signed-in browser; the engine covers employer boards directly."
-      },
-      {
-        "id": "lane-mv9wl491-0a9q11",
-        "name": "Google Jobs",
-        "kind": "board",
-        "sites": [
-          "Google Jobs (google.com/search jobs)"
-        ],
-        "done": 0,
-        "total": 1,
-        "status": "manual",
-        "detail": "LinkedIn/Indeed/Dice searches run in your signed-in browser; the engine covers employer boards directly."
-      },
-      {
-        "id": "lane-mv9wl491-7lmim3",
-        "name": "Company Career Sites",
-        "kind": "board",
-        "sites": [
-          "Employer career pages (from your target employer list)"
-        ],
-        "done": 0,
-        "total": 1,
-        "status": "manual",
-        "detail": "LinkedIn/Indeed/Dice searches run in your signed-in browser; the engine covers employer boards directly."
-      }
-    ],
-    "evaluated_extra": 399,
-    "engine_updated_at": "2026-10-15T20:14:20.021Z",
-    "stages": [
-      {
-        "name": "Preparing",
-        "state": "done",
-        "detail": "Saved titles, lanes and rules loaded."
-      },
-      {
-        "name": "Discovering",
-        "state": "done",
-        "detail": "Every saved lane checked."
-      },
-      {
-        "name": "Evaluating",
-        "state": "done",
-        "detail": "Postings were evaluated as they were found, against your saved titles and rules."
-      },
-      {
-        "name": "Filing",
-        "state": "done",
-        "detail": "Ready-to-apply leads queued in Parked — submissions happen in your browser."
-      },
-      {
-        "name": "Closeout",
-        "state": "active",
-        "detail": "Saving the run record."
-      }
-    ]
-  },
+  "state": "idle",
+  "current_run": null,
   "history": [
+    {
+      "id": "run-mv9z7wxs-0z32io",
+      "started_at": "2026-10-15T20:13:33.952Z",
+      "titles": [
+        "Healthcare Project Director",
+        "Healthcare Director",
+        "Healthcare Program Director",
+        "Healthcare Operations Director",
+        "Healthcare Managing Director",
+        "Healthcare Director of Operations",
+        "Healthcare Associate Director",
+        "Healthcare Executive Director",
+        "Healthcare Senior Director",
+        "Senior Healthcare Project Director",
+        "Lead Healthcare Project Director",
+        "Principal Healthcare Project Director",
+        "Staff Healthcare Project Director",
+        "Project Director",
+        "Senior Project Director",
+        "Lead Project Director",
+        "Principal Project Director",
+        "Staff Project Director",
+        "Program Director",
+        "Senior Program Director",
+        "Lead Program Director",
+        "Principal Program Director",
+        "Staff Program Director",
+        "Operations Director",
+        "Senior Operations Director",
+        "Lead Operations Director",
+        "Principal Operations Director",
+        "Staff Operations Director",
+        "Managing Director",
+        "Senior Managing Director",
+        "Lead Managing Director",
+        "Principal Managing Director",
+        "Staff Managing Director",
+        "Director of Operations",
+        "Senior Director of Operations"
+      ],
+      "lanes": [
+        {
+          "id": "lane-mv9wl491-nme0o9",
+          "name": "Healthcare employers",
+          "kind": "sector",
+          "sites": [
+            "humana, United healthcare, cigna"
+          ],
+          "done": 1,
+          "total": 1,
+          "status": "done",
+          "detail": "humana, United healthcare, cigna: no public board found"
+        },
+        {
+          "id": "lane-mv9wl491-b0qotw",
+          "name": "Media & Entertainment employers",
+          "kind": "sector",
+          "sites": [
+            "Employers in the Media & Entertainment sector (add target employers in the wizard)"
+          ],
+          "done": 1,
+          "total": 1,
+          "status": "done",
+          "detail": "Employers in the Media & Entertainment sector (add target employers in the wizard): no public board found"
+        },
+        {
+          "id": "lane-mv9wl491-u6816m",
+          "name": "LinkedIn",
+          "kind": "board",
+          "sites": [
+            "LinkedIn (linkedin.com/jobs)"
+          ],
+          "done": 0,
+          "total": 1,
+          "status": "manual",
+          "detail": "LinkedIn/Indeed/Dice searches run in your signed-in browser; the engine covers employer boards directly."
+        },
+        {
+          "id": "lane-mv9wl491-2xjg4o",
+          "name": "Indeed",
+          "kind": "board",
+          "sites": [
+            "Indeed (indeed.com)"
+          ],
+          "done": 0,
+          "total": 1,
+          "status": "manual",
+          "detail": "LinkedIn/Indeed/Dice searches run in your signed-in browser; the engine covers employer boards directly."
+        },
+        {
+          "id": "lane-mv9wl491-bpgi09",
+          "name": "Dice",
+          "kind": "board",
+          "sites": [
+            "Dice (dice.com)"
+          ],
+          "done": 0,
+          "total": 1,
+          "status": "manual",
+          "detail": "LinkedIn/Indeed/Dice searches run in your signed-in browser; the engine covers employer boards directly."
+        },
+        {
+          "id": "lane-mv9wl491-jkzc6q",
+          "name": "Glassdoor",
+          "kind": "board",
+          "sites": [
+            "Glassdoor (glassdoor.com)"
+          ],
+          "done": 0,
+          "total": 1,
+          "status": "manual",
+          "detail": "LinkedIn/Indeed/Dice searches run in your signed-in browser; the engine covers employer boards directly."
+        },
+        {
+          "id": "lane-mv9wl491-grctp9",
+          "name": "Monster",
+          "kind": "board",
+          "sites": [
+            "Monster (monster.com)"
+          ],
+          "done": 0,
+          "total": 1,
+          "status": "manual",
+          "detail": "LinkedIn/Indeed/Dice searches run in your signed-in browser; the engine covers employer boards directly."
+        },
+        {
+          "id": "lane-mv9wl491-ibe1b3",
+          "name": "ZipRecruiter",
+          "kind": "board",
+          "sites": [
+            "ZipRecruiter (ziprecruiter.com)"
+          ],
+          "done": 0,
+          "total": 1,
+          "status": "manual",
+          "detail": "LinkedIn/Indeed/Dice searches run in your signed-in browser; the engine covers employer boards directly."
+        },
+        {
+          "id": "lane-mv9wl491-7tdnty",
+          "name": "SimplyHired",
+          "kind": "board",
+          "sites": [
+            "SimplyHired (simplyhired.com)"
+          ],
+          "done": 0,
+          "total": 1,
+          "status": "manual",
+          "detail": "LinkedIn/Indeed/Dice searches run in your signed-in browser; the engine covers employer boards directly."
+        },
+        {
+          "id": "lane-mv9wl491-0a9q11",
+          "name": "Google Jobs",
+          "kind": "board",
+          "sites": [
+            "Google Jobs (google.com/search jobs)"
+          ],
+          "done": 0,
+          "total": 1,
+          "status": "manual",
+          "detail": "LinkedIn/Indeed/Dice searches run in your signed-in browser; the engine covers employer boards directly."
+        },
+        {
+          "id": "lane-mv9wl491-7lmim3",
+          "name": "Company Career Sites",
+          "kind": "board",
+          "sites": [
+            "Employer career pages (from your target employer list)"
+          ],
+          "done": 0,
+          "total": 1,
+          "status": "manual",
+          "detail": "LinkedIn/Indeed/Dice searches run in your signed-in browser; the engine covers employer boards directly."
+        }
+      ],
+      "evaluated_extra": 399,
+      "engine_updated_at": "2026-10-15T20:14:20.021Z",
+      "stages": [
+        {
+          "name": "Preparing",
+          "state": "done",
+          "detail": "Saved titles, lanes and rules loaded."
+        },
+        {
+          "name": "Discovering",
+          "state": "done",
+          "detail": "Every saved lane checked."
+        },
+        {
+          "name": "Evaluating",
+          "state": "done",
+          "detail": "Postings were evaluated as they were found, against your saved titles and rules."
+        },
+        {
+          "name": "Filing",
+          "state": "done",
+          "detail": "Ready-to-apply leads queued in Parked — submissions happen in your browser."
+        },
+        {
+          "name": "Closeout",
+          "state": "done",
+          "detail": "Run record saved to runs.json."
+        }
+      ],
+      "ended_at": "2026-10-15T20:14:21.336Z"
+    },
     {
       "id": "run-mv9tbium-z66ua4",
       "started_at": "2026-10-15T17:28:24.622Z",
@@ -334,5 +336,5 @@
   ],
   "lane_controls": [],
   "requests": [],
-  "updated_at": "2026-10-15T20:14:20.021Z"
+  "updated_at": "2026-10-15T20:14:21.337Z"
 }
