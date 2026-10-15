@@ -108,7 +108,6 @@
       "Lead Healthcare Project Director",
       "Principal Healthcare Project Director",
       "Staff Healthcare Project Director",
-      "Associate Healthcare Project Director",
       "Executive Healthcare Project Director",
       "Director of Healthcare Project",
       "Senior Director of Healthcare Project",
@@ -203,7 +202,9 @@
     "saved_at": "2026-10-15T22:38:23.934Z"
   },
   "coverage_saved_at": "2026-10-15T22:38:23.934Z",
-  "updated_at": "2026-10-15T22:38:39.004Z",
-  "removed_titles": [],
+  "updated_at": "2026-10-15T22:53:53.126Z",
+  "removed_titles": [
+    "Associate Healthcare Project Director"
+  ],
   "added_titles": []
 }
