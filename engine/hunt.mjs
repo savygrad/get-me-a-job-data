@@ -414,6 +414,20 @@ function isPlaceholderSite(site) {
   return /career pages/i.test(s) || s.includes("…") || /^employer career/i.test(s) || /^job boards/i.test(s);
 }
 
+/* Employers for a lane: a site entry may hold several employers typed
+   on one line separated by commas ("humana, United healthcare, cigna")
+   — split them, or the whole lane resolves as one bogus employer name
+   and silently searches nothing. Corporate-suffix fragments are dropped. */
+function laneEmployers(lane) {
+  const out = [];
+  for (const s of lane.sites || []) {
+    for (const part of String(s || "").split(",")) {
+      const name = part.trim();
+      if (name && !isPlaceholderSite(name) && !/^(inc|llc|ltd|corp|co|company)\.?$/i.test(name) && !out.includes(name)) out.push(name);
+    }
+  }
+  return out;
+}
 async function fetchJSON(url) {
   const ctrl = new AbortController();
   const timer = setTimeout(() => ctrl.abort(), FETCH_TIMEOUT_MS);
@@ -535,7 +549,7 @@ function initLaneEntry(lane) {
     entry.done = 0; entry.total = 1; entry.status = "manual";
     entry.detail = "LinkedIn/Indeed/Dice searches run in your signed-in browser; the engine covers employer boards directly.";
   } else {
-    const employers = (lane.sites || []).filter((s) => s && !isPlaceholderSite(s));
+    const employers = laneEmployers(lane);
     entry.done = 0; entry.total = employers.length; entry.status = "queued"; entry.detail = "";
   }
   return entry;
@@ -917,7 +931,7 @@ async function main() {
       continue;
     }
     lane.status = "searching";
-    const employers = (lane.sites || []).filter((s) => s && !isPlaceholderSite(s));
+    const employers = laneEmployers(lane);
     const results = [];
     for (const employer of employers) {
       try {
