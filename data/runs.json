@@ -1,6 +1,108 @@
 {
-  "state": "idle",
-  "current_run": null,
+  "state": "running",
+  "current_run": {
+    "id": "run-mvabbexv-s7j4x3",
+    "started_at": "2026-10-16T01:52:12.643Z",
+    "titles": [
+      "Healthcare Project Director",
+      "Senior Healthcare Project Director",
+      "Lead Healthcare Project Director",
+      "Principal Healthcare Project Director",
+      "Staff Healthcare Project Director",
+      "Executive Healthcare Project Director",
+      "Director of Healthcare Project",
+      "Senior Director of Healthcare Project",
+      "Lead Director of Healthcare Project",
+      "Principal Director of Healthcare Project",
+      "Staff Director of Healthcare Project",
+      "Associate Director of Healthcare Project",
+      "Executive Director of Healthcare Project",
+      "Associate Healthcare Project Director"
+    ],
+    "lanes": [
+      {
+        "id": "lane-mva4dx5h-z2tog2",
+        "name": "Healthcare employers",
+        "kind": "sector",
+        "sites": [
+          "humana, United healthcare, cigna"
+        ]
+      },
+      {
+        "id": "lane-mva4dx5h-p7nz9o",
+        "name": "LinkedIn",
+        "kind": "board",
+        "sites": [
+          "LinkedIn (linkedin.com/jobs)"
+        ]
+      },
+      {
+        "id": "lane-mva4dx5h-uqdb6p",
+        "name": "Indeed",
+        "kind": "board",
+        "sites": [
+          "Indeed (indeed.com)"
+        ]
+      },
+      {
+        "id": "lane-mva4dx5h-4pabup",
+        "name": "Dice",
+        "kind": "board",
+        "sites": [
+          "Dice (dice.com)"
+        ]
+      },
+      {
+        "id": "lane-mva4dx5h-31eyz5",
+        "name": "Glassdoor",
+        "kind": "board",
+        "sites": [
+          "Glassdoor (glassdoor.com)"
+        ]
+      },
+      {
+        "id": "lane-mva4dx5h-3vdvbk",
+        "name": "Monster",
+        "kind": "board",
+        "sites": [
+          "Monster (monster.com)"
+        ]
+      },
+      {
+        "id": "lane-mva4dx5h-gengia",
+        "name": "ZipRecruiter",
+        "kind": "board",
+        "sites": [
+          "ZipRecruiter (ziprecruiter.com)"
+        ]
+      },
+      {
+        "id": "lane-mva4dx5h-zdbxl6",
+        "name": "SimplyHired",
+        "kind": "board",
+        "sites": [
+          "SimplyHired (simplyhired.com)"
+        ]
+      },
+      {
+        "id": "lane-mva4dx5h-u3ifrb",
+        "name": "Google Jobs",
+        "kind": "board",
+        "sites": [
+          "Google Jobs (google.com/search jobs)"
+        ]
+      },
+      {
+        "id": "lane-mva4dx5h-ut74cf",
+        "name": "Company Career Sites",
+        "kind": "board",
+        "sites": [
+          "Employer career pages (from your target employer list)"
+        ]
+      }
+    ],
+    "evaluated_extra": 0
+  },
   "history": [
     {
       "id": "run-mv9z7wxs-0z32io",
@@ -336,5 +438,5 @@
   ],
   "lane_controls": [],
   "requests": [],
-  "updated_at": "2026-10-15T20:14:21.337Z"
+  "updated_at": "2026-10-16T01:52:12.644Z"
 }
